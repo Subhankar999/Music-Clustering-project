@@ -15,7 +15,6 @@ The system analyzes music features such as:
 These features are processed and standardized before applying K-Means clustering to divide songs into groups with similar musical characteristics.
 
 <h2>🔬Machine Learning Techniques<h2/>
-  
 Unsupervised Learning
 K-Means Clustering
 Feature Scaling using StandardScaler
