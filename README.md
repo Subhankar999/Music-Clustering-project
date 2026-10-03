@@ -14,7 +14,8 @@ The system analyzes music features such as:
 🔉 Loudness
 These features are processed and standardized before applying K-Means clustering to divide songs into groups with similar musical characteristics.
 
-<h2>🔬 Machine Learning Techniques**<h2/>
+<h2>🔬 Machine Learning Techniques<h2/>
+  
 Unsupervised Learning
 K-Means Clustering
 Feature Scaling using StandardScaler
@@ -22,5 +23,5 @@ Elbow Method for selecting the number of clusters
 Silhouette Score for evaluating clustering quality
 Exploratory Data Analysis and visualization
 
-<h2>Streamlit Application**</h2>
+<h2>Streamlit Application</h2>
 The project also includes a Streamlit web application that allows users to explore the clustering results and analyze groups of similar songs interactively.
