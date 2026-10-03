@@ -1,4 +1,4 @@
-**Music Clustering using Machine Learning**
+<h1>**Music Clustering using Machine Learning**</h1>
 
 This project uses Unsupervised Machine Learning to automatically group similar songs based on their audio and musical characteristics. The project applies K-Means Clustering to discover hidden patterns and create meaningful groups of songs without requiring predefined labels.
 Project Overview
