@@ -25,3 +25,5 @@ These features are processed and standardized before applying **K-Means Clusteri
 - Elbow Method for selecting the number of clusters
 - Silhouette Score for evaluating clustering quality
 - Exploratory Data Analysis and Visualization
+
+Developed as a Machine Learning project to explore unsupervised learning and music data analysis.
