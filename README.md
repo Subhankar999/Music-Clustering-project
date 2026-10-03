@@ -2,6 +2,8 @@
 
 This project uses **Unsupervised Machine Learning** to automatically group similar songs based on their audio and musical characteristics. The project applies **K-Means Clustering** to discover hidden patterns and create meaningful groups of songs without requiring predefined labels.
 
+Project Link : https://music-clustering-project-ubjfazqlhqeappy4v836gbn.streamlit.app/
+
 ## 🚀 Project Overview
 
 The system analyzes music features such as:
